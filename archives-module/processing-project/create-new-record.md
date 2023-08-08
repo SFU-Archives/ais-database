@@ -45,4 +45,6 @@ To quit the process without creating a new record, click the `Cancel` button.
 - You will be prompted to confirm your request; click `OK`.
 - The **Data entry** window will close and you will be returned to your previous location in the system, no new record will be created.
 
+---
 ###### Last updated: Aug 8, 2023
+###### [Overview](overview.md) `|` [Create new records](create-new-record.md) `|` [Edit records](edit-record.md) `|` [Reports and actions](report-actions.md) `|` [DB structure](db-structure.md)
