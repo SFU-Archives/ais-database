@@ -2,6 +2,8 @@
 ###### [Accessions](../accession/overview.md) `|` [Block Reviews](../block-review/overview.md) `|` [Fonds](../fonds/overview.md) `|` [Informal Access Reviews](../informal-access-review/overview.md) `|` [Inquiries](../inquiry/overview.md) `|` [Processing Projects](overview.md) `|` [Research Products](../research-product/overview.md)
 
 # Processing Project: Database Structure
+![Entity Relationship Diagram for the Processing Project table](../../erd/processing-project.png)
+
 <img align="right" width="400" src="../../erd/processing-project.png">
 
 A `Processing Project` is a program of work with clear start and end dates to arrange and describe archival records from the backlog of one or more related `Fonds` or `Collections`. `Processing Projects` are related to other entities throughout the AIS, but especially to entities in the [Archives](../overview.md) and [Repository](../repository-module/overview.md) modules.
