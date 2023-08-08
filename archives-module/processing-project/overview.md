@@ -10,8 +10,8 @@ The main purposes of the AIS `Processing Project` table are to:
 - Support the creation of standardized *Processing reports*, documenting decisions and issues relating to fonds and collections as they are arranged and described.
 
 In this section:
-- [Create new records](create-new-records.md)
-- [Edit records](edit-records.md)
+- [Create new records](create-new-record.md)
+- [Edit records](edit-record.md)
 - [Reports and actions](reports-actions.md)
 - [Database table structure](db-structure.md)
 
