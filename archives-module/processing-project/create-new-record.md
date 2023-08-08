@@ -51,4 +51,4 @@ To quit the process without creating a new record, click the `Cancel` button.
 
 ---
 ###### Last updated: Aug 8, 2023
-###### Processing Projects > [Overview](overview.md) `|` [Create new records](create-new-record.md) `|` [Edit records](edit-record.md) `|` [Reports and actions](report-actions.md) `|` [DB structure](db-structure.md)
+###### Processing Projects > [Overview](overview.md) `|` [Create new records](create-new-record.md) `|` [Edit records](edit-record.md) `|` [Reports and actions](reports-actions.md) `|` [DB structure](db-structure.md)
