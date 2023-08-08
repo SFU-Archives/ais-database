@@ -19,7 +19,7 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 </details>
 
 <details>
-<summary><b>Records Management Module</b><summary>
+<summary><b>Records Management Module</b></summary>
 
 - Overview
 - RM Advice
@@ -31,7 +31,7 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 </details>
 
 <details>
-<summary><b>FIPPA Module</b><summary>
+<summary><b>FIPPA Module</b></summary>
 
 - Overview
 - Privacy Breach
@@ -39,7 +39,7 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 </details>
 
 <details>
-<summary><b>Repository Module</b><summary>
+<summary><b>Repository Module</b></summary>
 
 - Overview
 - AIPs
@@ -52,7 +52,7 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 </details>
 
 <details>
-<summary><b>Authority Control Module</b><summary>
+<summary><b>Authority Control Module</b></summary>
 
 - Overview
 - Agents
@@ -61,7 +61,7 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 </details>
 
 <details>
-<summary><b>Office Administration Module</b><summary>
+<summary><b>Office Administration Module</b></summary>
 
 - Overview
 - Workplans
