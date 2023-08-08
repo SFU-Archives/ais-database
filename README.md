@@ -3,12 +3,56 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 
 <details>
 <summary><b>AIS General Features</b></summary>
-
 </details>
 
 <details>
-<summary>### Archives Module</summary>
+<summary><b>Archives Module</b></summary>
+- [Overview](archives-module/overview.md)
+- [Accessions](archives-module/accession/overiew.md)
+- [Fonds](archives-module/fonds/overview.md)
+- [Inquiries](archives-module/inquiries/overview.md)
+- [Processing Projects](archives-module/processing-project/overview.md)
+- [Researcher Products](archives-module/research-product/overview.md)
+</details>
 
+<details>
+<summary><b>Records Management Module</b><summary>
+- Overview
+- RM Advice
+- RRSDAs
+- URC Disposals
+- URC Retrievals
+- URC Transfers
+</details>
+
+<details>
+<summary><b>FIPPA Module</b><summary>
+- Overview
+- Privacy Breach
+</details>
+
+<details>
+<summary><b>Repository Module</b><summary>
+- Overview
+- AIPs
+- Containers
+- Drives
+- Locations
+- Objects
+- URC Boxes
+</details>
+
+<details>
+<summary><b>Authority Control Module</b><summary>
+- Overview
+- Agents
+- Taxonomies
+</details>
+
+<details>
+<summary><b>Office Administration Module</b><summary>
+- Overview
+- Workplans
 </details>
 
 ###### Last updated: Aug 8, 2023
