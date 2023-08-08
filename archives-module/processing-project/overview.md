@@ -15,6 +15,8 @@ In this section:
 - [Reports and actions](reports-actions.md)
 - [Database table structure](db-structure.md)
 
+![Processing Projects Home page](../../images/processing-project-home.png)
+
 ---
 
 ###### Last updated: Aug 8, 2023
