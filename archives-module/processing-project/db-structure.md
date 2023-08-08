@@ -6,12 +6,6 @@
 
 A `Processing Project` is a program of work with clear start and end dates to arrange and describe archival records from the backlog of one or more related `Fonds` or `Collections`. `Processing Projects` are related to other entities throughout the AIS, but especially to entities in the [Archives](../overview.md) and [Repository](../repository-module/overview.md) modules.
 
-Contents
-1 Fonds and accessions
-2 URC Boxes
-3 Containers, Objects, AIPs
-4 Processing stats
-
 ## Fonds and accessions
 A project can be linked to multiple `Fonds` and `Accessions`; and `Fonds` and `Accessions` can in turn be associated with multiple projects over time.
 
