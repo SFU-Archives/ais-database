@@ -2,6 +2,9 @@
 ###### [Accessions](../accession/overview.md) `|` [Block Reviews](../block-review/overview.md) `|` [Fonds](../fonds/overview.md) `|` [Informal Access Reviews](../informal-access-review/overview.md) `|` [Inquiries](../inquiry/overview.md) `|` Processing Projects `|` [Research Products](../research-product/overview.md)
 
 # Create a New Processing Project Record
+<img align="right" width="350" src="../../images/processing-project-create.png">
+<img align="right" width="350" src="../images/processing-project-data-entry.png">
+
 You can create a new `Processing Project` record from the **Archives Module Home** screen or from any Processing Project **View** or **List** screen. Either of these starting points will take you to a dedicated **Data Entry** screen.
 
 ## Create a new record
@@ -47,4 +50,4 @@ To quit the process without creating a new record, click the `Cancel` button.
 
 ---
 ###### Last updated: Aug 8, 2023
-###### [Overview](overview.md) `|` [Create new records](create-new-record.md) `|` [Edit records](edit-record.md) `|` [Reports and actions](report-actions.md) `|` [DB structure](db-structure.md)
+###### Processing Projects > [Overview](overview.md) `|` [Create new records](create-new-record.md) `|` [Edit records](edit-record.md) `|` [Reports and actions](report-actions.md) `|` [DB structure](db-structure.md)
