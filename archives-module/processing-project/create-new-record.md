@@ -2,12 +2,11 @@
 ###### [Accessions](../accession/overview.md) `|` [Block Reviews](../block-review/overview.md) `|` [Fonds](../fonds/overview.md) `|` [Informal Access Reviews](../informal-access-review/overview.md) `|` [Inquiries](../inquiry/overview.md) `|` Processing Projects `|` [Research Products](../research-product/overview.md)
 
 # Create a New Processing Project Record
-<img align="right" width="350" src="../../images/processing-project-create.png">
-<img align="right" width="350" src="../images/processing-project-data-entry.png">
-
 You can create a new `Processing Project` record from the **Archives Module Home** screen or from any Processing Project **View** or **List** screen. Either of these starting points will take you to a dedicated **Data Entry** screen.
 
 ## Create a new record
+<img align="right" width="350" src="../../images/processing-project-create.png">
+
 From the Archives module **Home** screen:
 - Click the `Processing projects` tab.
 - Click the `+ New project` button below the filter portal in the lower right corner of the screen.
@@ -16,6 +15,8 @@ From any project **View** or **List** screen:
 - Click the `+` icon in the NavBar along the top of the screen.
 
 ## Data entry screen
+<img align="right" width="350" src="../../images/processing-project-data-entry.png">
+
 The **Data entry** screen gives the core set of required fields for a `Processing Project` record.
 
 `Name`
