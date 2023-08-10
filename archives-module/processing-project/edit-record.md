@@ -6,7 +6,7 @@
 The `ProcessingProject` record **View** screen is organized into 9 tabs.
 
 ## Identity tab
-<img align="right" width="400" src="../../images/processing-project-identity.png">
+<img align="right" width="500" src="../../images/processing-project-identity.png">
 
 The **Identity tab** provides in the centre pane fields for describing the project; and in the right sidebar statistical summary fields.
 
