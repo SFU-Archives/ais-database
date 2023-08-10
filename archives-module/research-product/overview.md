@@ -1,8 +1,8 @@
 ###### [AIS Documentation](../../README.md) > [Archives Module](../overview.md)
-###### Accessions `|` [Block Reviews](../block-review/overview.md) `|` [Fonds](../fonds/overview.md) `|` [Informal Access Reviews](../informal-access-review/overview.md) `|` [Inquiries](../inquiry/overview.md) `|` [Processing Projects](../processing-project/overview.md) `|` [Research Products](../research-product/overview.md)
+###### [Accessions](../accession/overview.md) `|` [Block Reviews](../block-review/overview.md) `|` [Fonds](../fonds/overview.md) `|` [Informal Access Reviews](../informal-access-review/overview.md) `|` [Inquiries](../inquiry/overview.md) `|` [Processing Projects](../processing-project/overview.md) `|` Research Products
 ###### Overview `|` [Create new records](create-new-record.md) `|` [Edit records](edit-record.md) `|` [Reports and actions](reports-actions.md) `|` [DB structure](db-structure.md)
 
-# Accessions: Overview
+# Research Products: Overview
 
 
 In this section:

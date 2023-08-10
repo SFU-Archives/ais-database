@@ -5,11 +5,13 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 
 ## Archives Module
 - [Overview](archives-module/overview.md)
-- [Accessions](archives-module/accession/overiew.md)
+- [Accessions](archives-module/accession/overview.md)
 - [Fonds](archives-module/fonds/overview.md)
-- [Inquiries](archives-module/inquiries/overview.md)
 - [Processing Projects](archives-module/processing-project/overview.md)
+- [Inquiries](archives-module/inquiries/overview.md)
 - [Researcher Products](archives-module/research-product/overview.md)
+- Informal Access Reviews
+- Block Reviews
 
 ## Records Management Module
 - Overview
