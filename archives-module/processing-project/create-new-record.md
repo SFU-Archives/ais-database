@@ -1,8 +1,8 @@
 ###### [AIS Documentation](../../README.md) > [Archives Module](../overview.md)
 ###### [Accessions](../accession/overview.md) `|` [Block Reviews](../block-review/overview.md) `|` [Fonds](../fonds/overview.md) `|` [Informal Access Reviews](../informal-access-review/overview.md) `|` [Inquiries](../inquiry/overview.md) `|` Processing Projects `|` [Research Products](../research-product/overview.md)
-###### [Processing Projects overview](overview.md) `|` Create new records `|` [Edit records](edit-record.md) `|` [Reports and actions](reports-actions.md) `|` [DB structure](db-structure.md)
+###### [Overview](overview.md) `|` Create new records `|` [Edit records](edit-record.md) `|` [Reports and actions](reports-actions.md) `|` [DB structure](db-structure.md)
 
-# Processing Project: Create Records
+# Processing Projects: Create Records
 You can create a new `Processing Project` record from the **Archives Module Home** screen or from any Processing Project **View** or **List** screen. Either of these starting points will take you to a dedicated **Data Entry** screen.
 
 ## Create a new record
