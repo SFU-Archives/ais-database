@@ -166,7 +166,7 @@ To add stats manually, click the `Add stats manually` button in the portal foote
 <br clear="all">
 
 ## Call-outs tab
-<img align="right" width="500" src="images/processing-project-call-outs.png"><br>
+<img align="right" width="500" src="images/processing-project-call-outs.png">
 
 <img align="right" width="500" src="images/processing-project-call-out-add.png">
 
@@ -212,7 +212,7 @@ You can print individual forms by clicking the `Print` icon in the list entry or
 <br clear="all">
 
 ## Clamshell box dividers tab
-<img align="right" width="500" src="images/processing-project-dividers.png"><br>
+<img align="right" width="500" src="images/processing-project-dividers.png">
 
 <img align="right" width="500" src="images/processing-project-call-divider-add.png">
 
