@@ -13,6 +13,14 @@ The main purposes of the AIS `Processing Project` table are to:
 In this section:
 - [Create new records](create-new-record.md)
 - [Edit records](edit-record.md)
+  - [Identity](edit-record.md#identity-tab)
+  - [Accessions](edit-record.md#accessions-tab)
+  - [URC Boxes (input](edit-record.md#urc-boxes-input-tab)
+  - [Outputs](edit-record.md#output-tab)
+  - [Stats](edit-record.md#stats-tab)
+  - [Call-outs](edit-record.md#call-outs-tab)
+  - [Clamshell box dividers](edit-record.md#clamshell-box-dividers-tab)
+  - [Notes](edit-record.md#notes-tab)
 - [Reports and actions](reports-actions.md)
 - [Database table structure](db-structure.md)
 

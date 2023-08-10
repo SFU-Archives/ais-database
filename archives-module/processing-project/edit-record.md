@@ -15,8 +15,9 @@ The `ProcessingProject` record **View** screen is organized into 9 tabs.
 - [Reports](#reports-tab)
 
 ## Identity tab
-The **Identity tab** provides in the centre pane fields for describing the project; and in the right sidebar statistical summary fields.
 <img align="right" width="500" src="images/processing-project-identity.png">
+
+The **Identity tab** provides in the centre pane fields for describing the project; and in the right sidebar statistical summary fields.
 
 `Processing project ID`
 - Unique serial number automatically assigned by the database on record creation in the form "PPR-x".
@@ -68,8 +69,9 @@ The `Status` and `Date processed` columns can be directly edited to update the `
 <br clear="all">
 
 ## URC Boxes (input) tab
-The **URC boxes (input)** tab shows all `URCBoxes` registered to the `Accessions` that were listed in the `Accessions` field on the **Identity** tab.
 <img align="right" width="500" src="images/processing-project-urc-boxes.png">
+
+The **URC boxes (input)** tab shows all `URCBoxes` registered to the `Accessions` that were listed in the `Accessions` field on the **Identity** tab.
 
 `Remove boxes`
 - Click the red `X` in the `Remove` column to register the removal of backlog boxes that were processed as part of the project.
@@ -110,7 +112,7 @@ Use the **Outputs** tab to create new archival `Containers`, `Objects` and `AIPs
 
 You can create these new records from their respective AIS tables / screens, but by creating them here they will be linked automatically to the processing project and allow you to easily generate processing stats.
 
-From the Add sub-tab, select the `Primary fonds` and `Primary accession`.
+From the **Add** sub-tab, select the `Primary fonds` and `Primary accession`.
 - These values will be used in the new `Containers`, `Objects` and `AIPs`.
 - The drop-down list is generated from the values you entered in the fields on the **Identity** tab.
 
@@ -118,7 +120,7 @@ Click the blue link for the type of new record you want to create (container, ob
 - You will be routed to the appropriate **Data entry** screen.
 - For more information on fields, see the guidance for each record type.
 
-The sidebar on the right shows the total numbers of related records already created and linked to the project.
+The `Already created` sidebar on the right shows the total numbers of related records already created and linked to the project.
 
 <br clear="all">
 
@@ -129,6 +131,7 @@ The sidebar on the right shows the total numbers of related records already crea
 
 ## Call-outs tab
 <img align="right" width="500" src="images/processing-project-call-outs.png">
+
 <img align="right" width="500" src="images/processing-project-call-out-add.png">
 
 
