@@ -71,7 +71,7 @@ The `Status` and `Date processed` columns can be directly edited to update the `
 ## URC Boxes (input) tab
 <img align="right" width="500" src="images/processing-project-urc-boxes.png">
 
-The **URC boxes (input)** tab shows all `URCBoxes` registered to the `Accessions` that were listed in the `Accessions` field on the **Identity** tab.
+The **URC boxes (input) tab** shows all `URCBoxes` registered to the `Accessions` that were listed in the `Accessions` field on the **Identity tab***.
 
 `Remove boxes`
 - Click the red `X` in the `Remove` column to register the removal of backlog boxes that were processed as part of the project.
@@ -108,7 +108,7 @@ Update stats
 ## Outputs tab
 <img align="right" width="500" src="images/processing-project-outputs.png">
 
-Use the **Outputs** tab to create new archival `Containers`, `Objects` and `AIPs` as outputs of the processing project.
+Use the **Outputs tab** to create new archival `Containers`, `Objects` and `AIPs` as outputs of the processing project.
 
 You can create these new records from their respective AIS tables / screens, but by creating them here they will be linked automatically to the processing project and allow you to easily generate processing stats.
 
@@ -127,6 +127,41 @@ The `Already created` sidebar on the right shows the total numbers of related re
 ## Stats tab
 <img align="right" width="500" src="images/processing-project-stats.png">
 
+<img align="right" width="500" src="images/processing-project-stats-manual.png">
+
+The **Stats tab** allows you to view / edit / add statistical extent statements.
+- Entries record extents before and after processing and can be used to calculate the overall reduction or growth of extent / volume as a result of processing.
+- Extents of paper files are typically reduced after processing, while the size of digital materials may increase because of normalization (creation of additional preservation and access copies).
+- Existing entries can be edited by clicking the pencil icon or deleted by clicking the trash can icon.
+
+Click the `Calculate stats from input / output` button to automatically create stats entries.
+- The AIS will create entries for inputs (`URCBoxes`) and each type of output (`Containers`, `Objects`, `AIPs`).
+
+To add stats manually, click the `Add stats manually` button in the portal footer bar.
+- The AIS routes you to a dedicated Data Entry screen.
+- The sidebar on the right side of the Data Entry screen shows all existing entries.
+- Click an entry to navigate to it for further editing.
+
+### Data entry fields
+`Phase`
+- Indicates whether the material represents input ("before processing") or output ("after processing").
+
+`Type of material`
+- Use the drop-down list to indicate the type of material.
+- Select `Other...` if none of the options seems appropriate and enter a brief descriptor.
+
+`Count`
+- Number of items.
+- If `Type of material` is a kind of box, the AIS will calculate a linear extent.
+
+`Digital size`
+- If `Type of material` relates to digital storage, give the total size.
+- Some physical carriers (e.g. optical disks) can have both a `Count` (e.g. 4 optical disks) and a `Digital size`.
+- For AIPs, use the total AIP size, including DIP if stored.
+
+`Note`
+- Any other information relating to the extent statement.
+
 <br clear="all">
 
 ## Call-outs tab
@@ -134,21 +169,118 @@ The `Already created` sidebar on the right shows the total numbers of related re
 
 <img align="right" width="500" src="images/processing-project-call-out-add.png">
 
+Use the **Call-outs tab** to print call-out forms (*Originals Re-located Form*) when materials are removed from their original location in a file folder.
+
+Use cases:
+- A folder contains photographic prints, slides or negatives that should be stored separately in a clamshell box.
+- A folder contains folded-up oversize materials that should be unfolded and stored separately in the map cabinet.
+
+Print two copies for each call-out:
+- Place one in the folder where the originals were located.
+- Place the other in the new location (clamshell box or map cabinet) to which the originals are moved.
+- Where possible, it is a good idea to make a photocopy of the originals (e.g. if they are prints) and attached these to the call-out sheet in the original file folder.
+
+You can print individual forms by clicking the `Print` icon in the list entry or print all by clicking the `Print all` button in the table footer.
+
+### Data entry fields
+`Type of form`
+- Use "Re-location"
+
+`Reference code`
+- Reference code of the archival file or item.
+
+`Call out #`
+- Sequential number relative to the file, e.g. 1, 2, 3...
+- There can be multiple call-out "groups" in one file.
+
+`Total docs`
+- Number of documents in the call out group re-located.
+
+`Description`
+- Brief description of the the re-located document(s).
+
+`Moved from`
+- Container the originals re-located from.
+
+`Moved to`
+- Container / shelf location after re-location.
+
+`Note`
+- Any other relevant information.
 
 <br clear="all">
 
 ## Clamshell box dividers tab
 <img align="right" width="500" src="images/processing-project-dividers.png">
 
+<img align="right" width="500" src="images/processing-project-call-divider-add.png">
+
+Use the **Dividers tab** to create and print divider forms to clearly demarcate materials from different files stored in the same clamshell boxes.
+
+Use cases:
+- Three files (have different reference codes) each consist entirely of photographs that are stored in the same clamshell box.
+
+Print a copy and file it at the beginning of the archival unit stored in the clamshell box.
+
+You can print individual forms by clicking the `Print` icon in the list entry or print all by clicking the `Print all` button in the table footer.
+
+### Data entry fields
+`Type of form`
+- Use "Divider"
+
+`Reference code`
+- Reference code of the archival file or item.
+
+`Level of description`
+- Select "File" or "Item"
+
+`Container`
+- Container number of clamshell box.
+
+`File / item title`, `Date range`
+- Title and date range of the file or item.
+
+`Note`
+- Any other relevant information.
+
 <br clear="all">
 
 ## Notes tab
 <img align="right" width="500" src="images/processing-project-notes.png">
 
+Enter data in the **Notes tab** that will appear in the *Processing Report* for the fonds collection file. The *Processing Report* is intended to convey information beyond what is in the finding aid that will aid future archivists to manage the fonds and understanding past management actions.
+- Ideally, much of this information is already in the AtoM archival description, but some of it may be too detailed or internal for the published finding aid.
+- Generally do not repeat information that is included in the finding aid.
+- It is fine to leave these fields blank if there is no need for them.
+
+`Appraisal`
+- Discuss appraisal issues and how they were resolved.
+- Document materials destroyed / not selected during processing.
+
+`Transfer`
+- Typically used only with digital materials.
+- Discuss issues relating to the transfer of the materials (e.g. scripts used to export data from their native systems).
+
+`Arrangement`
+- Give information about the rationale for arrangement decisions if more information is needed beyond the **Note on arrangement** in the finding aid.
+
+`Preservation`
+- Document conservation actions undertaken on specific materials.
+- Flag conditions that require monitoring or may need future actions.
+
+`Rights`
+- Use for information relating to access restrictions or copyright, again only if it goes beyond what is already in the finding aid.
+
+`Exhibits`
+- Highlight materials that could be used in phyiscal or virtual exhibits.
+
+`General note`
+- Any other relevant information.
+
 <br clear="all">
 
 ## Reports tab
-<img align="right" width="500" src="images/processing-project-reports.png">
-
+The **Reports tab** provides buttons to run reports and actions on the current record or the current set of records.
+- See [Reports and Actions](reports-actions.md) for details.
 
 ###### Last updated: Aug 10, 2023

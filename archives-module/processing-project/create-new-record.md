@@ -3,22 +3,23 @@
 ###### [Overview](overview.md) `|` Create new records `|` [Edit records](edit-record.md) `|` [Reports and actions](reports-actions.md) `|` [DB structure](db-structure.md)
 
 # Processing Projects: Create Records
-You can create a new `Processing Project` record from the **Archives Module Home** screen or from any Processing Project **View** or **List** screen. Either of these starting points will take you to a dedicated **Data Entry** screen.
+<img align="right" width="500" src="images/processing-project-create.png">
 
-## Create a new record
-<img align="right" width="400" src="images/processing-project-create.png">
+You can create a new `Processing Project` record from the **Archives Module Home** screen or from any project **View** or **List** screen. Either of these starting points will take you to a dedicated **Data Entry** screen.
 
 From the Archives module **Home** screen:
 - Click the `Processing projects` tab.
 - Click the `+ New project` button below the filter portal in the lower right corner of the screen.
 
 From any project **View** or **List** screen:
-- Click the `+` icon in the NavBar along the top of the screen.
+- Click the `+` icon in the `NavBar` along the top of the screen.
+
+<br clear="all">
 
 ## Data entry screen
-<img align="right" width="400" src="images/processing-project-data-entry.png">
+<img align="right" width="500" src="images/processing-project-data-entry.png">
 
-The **Data entry** screen gives the core set of required fields for a `Processing Project` record.
+The **Data entry** screen gives the core set of required fields for a `ProcessingProject` record.
 
 `Name`
 - Enter a brief descriptive name for the project.
@@ -42,7 +43,6 @@ The **Data entry** screen gives the core set of required fields for a `Processin
 - Enter the name of the archivist responsible for project and the date the project began.
 - Values will default to current user's name and current date on record creation.
 
-## Complete data entry
 To complete data entry, click the `Done` button in the top right corner of the screen.
 - The **Data entry** window will close and you will be routed to the new record on its standard View screen.
 
