@@ -65,7 +65,8 @@ The `Status` and `Date processed` columns can be directly edited to update the `
 `Date`
 - Enter the date the `Accession` was processed.
 
-<br clear=all>
+<br clear="all">
+
 ## URC Boxes (input) tab
 The **URC boxes (input)** tab shows all `URCBoxes` registered to the `Accessions` that were listed in the `Accessions` field on the **Identity** tab.
 <img align="right" width="500" src="images/processing-project-urc-boxes.png">
@@ -101,6 +102,7 @@ Click the `Location` field in the list to navigate to the `Location` record.
 Update stats
 
 <br clear="all">
+
 ## Outputs tab
 <img align="right" width="500" src="images/processing-project-outputs.png">
 
@@ -119,24 +121,29 @@ Click the blue link for the type of new record you want to create (container, ob
 The sidebar on the right shows the total numbers of related records already created and linked to the project.
 
 <br clear="all">
+
 ## Stats tab
 <img align="right" width="500" src="images/processing-project-stats.png">
 
 <br clear="all">
+
 ## Call-outs tab
 <img align="right" width="500" src="images/processing-project-call-outs.png">
 <img align="right" width="500" src="images/processing-project-call-out-add.png">
 
 
 <br clear="all">
+
 ## Clamshell box dividers tab
 <img align="right" width="500" src="images/processing-project-dividers.png">
 
 <br clear="all">
+
 ## Notes tab
 <img align="right" width="500" src="images/processing-project-notes.png">
 
 <br clear="all">
+
 ## Reports tab
 <img align="right" width="500" src="images/processing-project-reports.png">
 
