@@ -1,14 +1,9 @@
 # Archives Information System (AIS) Database
 SFU Archives has a custom FileMaker database to support its internal administrative and program activities. This site provides documentation and guidelines for use. The system and documentation is organized into separate but linked modules. Documentation is a work-in-progress and the site will be updated as new materials are added.
 
-<details>
-<summary><b>AIS General Features</b></summary>
+## AIS General Features
 
-</details>
-
-<details>
-<summary><b>Archives Module</b></summary>
-
+## Archives Module
 - [Overview](archives-module/overview.md)
 - [Accessions](archives-module/accession/overiew.md)
 - [Fonds](archives-module/fonds/overview.md)
@@ -16,11 +11,7 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 - [Processing Projects](archives-module/processing-project/overview.md)
 - [Researcher Products](archives-module/research-product/overview.md)
 
-</details>
-
-<details>
-<summary><b>Records Management Module</b></summary>
-
+## Records Management Module
 - Overview
 - RM Advice
 - RRSDAs
@@ -28,19 +19,11 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 - URC Retrievals
 - URC Transfers
 
-</details>
-
-<details>
-<summary><b>FIPPA Module</b></summary>
-
+## FIPPA Module
 - Overview
 - Privacy Breach
 
-</details>
-
-<details>
-<summary><b>Repository Module</b></summary>
-
+## Repository Module
 - Overview
 - AIPs
 - Containers
@@ -49,26 +32,16 @@ SFU Archives has a custom FileMaker database to support its internal administrat
 - Objects
 - URC Boxes
 
-</details>
-
-<details>
-<summary><b>Authority Control Module</b></summary>
-
+## Authority Control Module
 - Overview
 - Agents
 - Taxonomies
 
-</details>
-
-<details>
-<summary><b>Office Administration Module</b></summary>
-
+## Office Administration Module
 - Overview
 - Workplans
 
-</details>
-
-###### Last updated: Aug 8, 2023
+###### Last updated: Aug 10, 2023
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
