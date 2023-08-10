@@ -3,10 +3,10 @@
 ###### [Overview](overview.md) `|` [Create new records](create-new-record.md) `|` Edit records `|` [Reports and actions](reports-actions.md) `|` [DB structure](db-structure.md)
 
 # Processing Projects: Edit Records
-The `ProcessingProject` record **View** screen is organized into 9 tabs.
+Edit a `ProcessingProject` record on its **View** screen; this screen is organized into 9 tabs.
 - [Identity](#identity-tab)
 - [Accessions](#accessions-tab)
-- [URC Boxes (input](#urc-boxes-input-tab)
+- [URC Boxes (inputs)](#urc-boxes-input-tab)
 - [Outputs](#output-tab)
 - [Stats](#stats-tab)
 - [Call-outs](#call-outs-tab)
@@ -54,8 +54,9 @@ Click the `Edit` icon (pencil) for an interface that allows you to select / add 
 <br clear="all">
 
 ## Accessions tab
-The **Accessions** tab displays in table form all `Accessions` that were listed in the `Accessions` field on the **Identity** tab.
 <img align="right" width="500" src="images/processing-project-accessions.png">
+
+The **Accessions** tab displays in table form all `Accessions` that were listed in the `Accessions` field on the **Identity** tab.
 
 The `Status` and `Date processed` columns can be directly edited to update the `Accession` record.
 - When you process materials from an `Accession`, you must update the Accession's `Status` field.
@@ -165,7 +166,7 @@ To add stats manually, click the `Add stats manually` button in the portal foote
 <br clear="all">
 
 ## Call-outs tab
-<img align="right" width="500" src="images/processing-project-call-outs.png">
+<img align="right" width="500" src="images/processing-project-call-outs.png"><br>
 
 <img align="right" width="500" src="images/processing-project-call-out-add.png">
 
@@ -211,7 +212,7 @@ You can print individual forms by clicking the `Print` icon in the list entry or
 <br clear="all">
 
 ## Clamshell box dividers tab
-<img align="right" width="500" src="images/processing-project-dividers.png">
+<img align="right" width="500" src="images/processing-project-dividers.png"><br>
 
 <img align="right" width="500" src="images/processing-project-call-divider-add.png">
 
@@ -248,14 +249,14 @@ You can print individual forms by clicking the `Print` icon in the list entry or
 ## Notes tab
 <img align="right" width="500" src="images/processing-project-notes.png">
 
-Enter data in the **Notes tab** that will appear in the *Processing Report* for the fonds collection file. The *Processing Report* is intended to convey information beyond what is in the finding aid that will aid future archivists to manage the fonds and understanding past management actions.
-- Ideally, much of this information is already in the AtoM archival description, but some of it may be too detailed or internal for the published finding aid.
+Enter data in the **Notes tab** that will appear in the *Processing Report* for the fonds collection file. The *Processing Report* is intended to convey information beyond what is in the finding aid in order to aid future archivists in managing the fonds and understanding past management actions.
+- Ideally, much of this information is already in the AtoM archival description, but some of it may not appropriate for the published finding aid (too detailed, internal or confidential).
 - Generally do not repeat information that is included in the finding aid.
-- It is fine to leave these fields blank if there is no need for them.
+- It is fine to leave fields blank if there is no need for them.
 
 `Appraisal`
 - Discuss appraisal issues and how they were resolved.
-- Document materials destroyed / not selected during processing.
+- Document materials not selected during processing (destroyed or returned to donor).
 
 `Transfer`
 - Typically used only with digital materials.
