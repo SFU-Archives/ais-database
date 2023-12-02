@@ -1,7 +1,7 @@
 # Archives Information System (AIS) Database
-SFU Archives has a custom FileMaker database to support its program and internal administrative activities. Documentation is organized into separate but linked modules. Documentation is organized on the [Wiki](https://github.com/SFU-Archives/ais-database/wiki) by database module.
+Documentation for the Archives Information System (AIS), a custom FileMaker database that supports the Archives' program and internal administrative activities. Documentation is organized on the [Wiki](https://github.com/SFU-Archives/ais-database/wiki) by database module.
 - [AIS Documentation](https://github.com/SFU-Archives/ais-database/wiki)
-- [Recent Changes and Additions(https://github.com/SFU-Archives/ais-database/wiki/Recent-Changes-and-Additions)]
+- [Recent Changes and Additions](https://github.com/SFU-Archives/ais-database/wiki/Recent-Changes-and-Additions)]
 
 ###### Last updated: Dec 1, 2023
 
