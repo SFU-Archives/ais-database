@@ -1,49 +1,9 @@
 # Archives Information System (AIS) Database
-SFU Archives has a custom FileMaker database to support its internal administrative and program activities. This site provides documentation and guidelines for use. The system and documentation is organized into separate but linked modules. Documentation is a work-in-progress and the site will be updated as new materials are added.
+SFU Archives has a custom FileMaker database to support its program and internal administrative activities. Documentation is organized into separate but linked modules. Documentation is organized on the [Wiki](https://github.com/SFU-Archives/ais-database/wiki) by database module.
+- [AIS Documentation](https://github.com/SFU-Archives/ais-database/wiki)
+- [Recent Changes and Additions(https://github.com/SFU-Archives/ais-database/wiki/Recent-Changes-and-Additions)]
 
-## AIS General Features
-
-## Archives Module
-- [Overview](archives-module/overview.md)
-- [Accessions](archives-module/accession/overview.md)
-- [Fonds](archives-module/fonds/overview.md)
-- [Processing Projects](archives-module/processing-project/overview.md)
-- [Inquiries](archives-module/inquiries/overview.md)
-- [Researcher Products](archives-module/research-product/overview.md)
-- Informal Access Reviews
-- Block Reviews
-
-## Records Management Module
-- Overview
-- RM Advice
-- RRSDAs
-- URC Disposals
-- URC Retrievals
-- URC Transfers
-
-## FIPPA Module
-- Overview
-- Privacy Breach
-
-## Repository Module
-- Overview
-- AIPs
-- Containers
-- Drives
-- Locations
-- Objects
-- URC Boxes
-
-## Authority Control Module
-- Overview
-- Agents
-- Taxonomies
-
-## Office Administration Module
-- Overview
-- Workplans
-
-###### Last updated: Aug 10, 2023
+###### Last updated: Dec 1, 2023
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
